@@ -9,7 +9,7 @@ This is my **fully animated, interactive, 3D developer portfolio** built to leav
 <br/>
 
 <div>
-  <img src="./assets/heero.png" alt="Hero" style="border-radius: 8px;"/>
+  <img src="./assets/heero.png" alt="Hero" style="width: 32%; border-radius: 8px;"/>
   <div style="display: flex; justify-content: space-between; margin: 20px 0;">
     <img src="https://github.com/user-attachments/assets/155bf742-b24f-4119-89f4-87e6d88c8f53" alt="Works" style="width: 32%; border-radius: 8px;"/>
     <img src="https://github.com/user-attachments/assets/f22b9749-85ed-434f-a5f6-df1f8e221103" alt="ContactSummary" style="width: 32%; border-radius: 8px;"/>
